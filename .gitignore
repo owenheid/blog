@@ -1,0 +1,12 @@
+# Operating System generated files
+.DS_Store    # macOS folder view settings
+Thumbs.db    # Windows image file cache
+
+# Editor directories and files
+.vscode/     # Settings for Visual Studio Code
+.idea/       # Settings for JetBrains IDEs
+*.sublime-*  # Settings for Sublime Text
+
+# Other files
+*.log        # Log files, if any are created
+*~           # Temporary files created by some text editors
